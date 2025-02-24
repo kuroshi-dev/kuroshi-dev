@@ -1,4 +1,4 @@
-# 👨💻 Vova (kuroshi) 
+# 💻 Volodymyr (kuroshi) 
 ### First-Year Student & Passionate Developer
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuroshi-dev&show_icons=true&theme=dark&hide_title=true)](https://github.com/kuroshi-dev)
