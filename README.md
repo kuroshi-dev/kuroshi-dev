@@ -1,5 +1,5 @@
 
-# Bulyukin Volodymyr (kuroshi)
+# Kuroshi
 
 I'm a **Front-End Developer** and a first-year student at the **Central National Technical University**. I'm passionate about creating **VRchat avatars**, exploring **Udon** and **VRchat SDK**, and making music 🎵. When I started, I was exclusively focused on design.
 
